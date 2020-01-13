@@ -1,0 +1,4 @@
+DEFAULT dictionary was a large free online dictionary. I wanted to parse a pdf as opposed to download a word list so I could also parse pdfs provided by the user.
+
+DEFAULT dictionary is the dictionary called "easier_english_student_dictionary_upper-int"
+found at: https://www.easypacelearning.com/english-books/english-books-for-download-pdf/category/33-3-dictionaries-to-download-in-pdf

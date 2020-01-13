@@ -1,3 +1,7 @@
+#Explainer documents
+*.doc
+*.docx
+
 # History files
 .Rhistory
 .Rapp.history
