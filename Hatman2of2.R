@@ -24,7 +24,7 @@ rm(list=ls())
 
 #Choose what word list to use 
 #You can choose "DEFAULT" (word list I provided) or the name of any pdf you drop into the "./word_files/pdf" directory
-Word_list_to_use <- "fulltext" 
+Word_list_to_use <- "DEFAULT" 
 
 #If you are using your own pdf for the first time, it may take several minutes for R to parse your document - be patient!
 #After the first time you do this for your own pdf, R saves the word list to a text file so this step will be much quicker if you play again
