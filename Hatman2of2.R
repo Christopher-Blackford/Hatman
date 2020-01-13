@@ -1,6 +1,8 @@
-####################################################################################################
-##########Hangman game
-##Created by: Christopher Blackford (chris.j.blackford@gmail.com)
+######################################################################
+######################################################################
+###Welcome to Hatman in R
+#Created by: Christopher Blackford (www.christopherblackford.com and https://github.com/Christopher-Blackford)
+#Last updated: January 2020
 
 #Installs libraries if you dan't have them, then loading libraries for generating the words
 packages <- c("tm", "pdftools", "stringr")

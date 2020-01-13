@@ -81,6 +81,7 @@ Leg2 <- SpatialLines(list(Lines(Line(coords), ID="a")))
 plot(gUnion(Blank_lines, Border))
 
 rm(Blank_lines, Border, coords, i, pt1, pt2, x, y) #Keeps global environment clean
+
 #####
 ####
 ###

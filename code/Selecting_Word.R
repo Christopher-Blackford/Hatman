@@ -18,7 +18,6 @@ if(file.exists(paste0("./word_files/word_lists/", Word_list_to_use, "_WordList.t
 #We want to keep this word hidden from our global environment pane, so instead of defining it here, I keep it relational to word list
 #word <- Word_list[sample(1:nrow(Word_list), 1),]
 
-
 #set.seed(seed)
 #strsplit(Word_list[sample(1:nrow(Word_list),1),], "")[[1]]
 

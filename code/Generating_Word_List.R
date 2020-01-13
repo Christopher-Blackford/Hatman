@@ -1,4 +1,4 @@
-#####Generating_Word_list subcode being used by hangman
+#####Generating_Word_list subcode being used by Hatman
 start_time <- Sys.time()
 
 #Read document into R
@@ -80,11 +80,9 @@ end_time <- Sys.time(); print(paste0("Word list generation took", gsub(capture.o
 
 #Removing objects that were useful for this file but you don't need
 rm(i, j, a_matrix, character_matrix, doc, fileConn, letters_vector, Record_non_word, temp, start_time, end_time)
+
 #####
 ####
 ###
 ##
 #END
-
-
-?gsub
